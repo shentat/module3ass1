@@ -2,10 +2,10 @@
 This is the readme file for the course project: Getting and Cleaning Data
 
 ##Files included in this directory:
-README.md
-CodeBook.md
-run_analysis.R
-tidy.txt
+* README.md
+* CodeBook.md
+* run_analysis.R
+* tidy.txt
 
 ##How to run the script:
 1. download the data from 
