@@ -2,18 +2,16 @@
 This Code Book describes the variables used in this project.
 
 ##Subject:
--------
 30 volunteers within an age bracket of 19-48 years.
 
-Activity:
---------
+##Activity:
 (Each person performed six activities)
-*WALKING 
-*WALKING_UPSTAIRS
-*WALKING_DOWNSTAIRS
-*SITTING
-*STANDING 
-*LAYING
+* WALKING 
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING 
+* LAYING
 
 Using and embedded accelerometer and gyroscope,
 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured.
