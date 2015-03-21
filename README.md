@@ -1,4 +1,4 @@
-##README first
+##README
 This is the readme file for the course project: Getting and Cleaning Data
 
 ##Files included in this directory:
