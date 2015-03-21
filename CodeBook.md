@@ -8,12 +8,12 @@ Subject:
 Activity:
 --------
 (Each person performed six activities)
--WALKING 
--WALKING_UPSTAIRS
--WALKING_DOWNSTAIRS
--SITTING
--STANDING 
--LAYING
+*WALKING 
+*WALKING_UPSTAIRS
+*WALKING_DOWNSTAIRS
+*SITTING
+*STANDING 
+*LAYING
 
 Using and embedded accelerometer and gyroscope,
 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured.
